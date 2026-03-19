@@ -2,6 +2,10 @@
 
 Two configurable, zero-dependency canvas effects for landing pages. TypeScript, framework-agnostic.
 
+```bash
+npm i landing-effects
+```
+
 ## Effects
 
 ### ASCII Renderer
